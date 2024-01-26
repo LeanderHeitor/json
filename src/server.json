@@ -1,0 +1,35 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "João Silva",
+      "email": "joao@example.com"
+    },
+    {
+      "id": "2",
+      "nome": "Maria Oliveira",
+      "email": "maria@example.com"
+    },
+    {
+      "id": "3",
+      "nome": "Pedro Santos",
+      "email": "pedro@example.com"
+    },
+    {
+      "id": "0dea",
+      "nome": "eito",
+      "email": "eito@gmail.com"
+    },
+    {
+      "id": "9849",
+      "nome": "eito",
+      "email": "eito@gmail.com"
+    },
+    {
+      "id": "f12e",
+      "nome": "jonas",
+      "email": "jonas@gmail.com"
+    }
+    
+  ]
+}
